@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<B>Sri aurobindo namaha</B>"
+    return "<B>Hi This is a Flask Web app built using python Flask and depoloyed on Azure Web App</B>"
